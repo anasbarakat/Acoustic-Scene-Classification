@@ -1,5 +1,6 @@
 # Acoustic-Scene-Classification
 June 2017
+
 Contributors: Anas Barakat, Bilal Mouhib
 
 Kaggle-like data challenge where the task was to do "acoustic scene classification". In particular, given an audio signal of ~30 seconds, the goal was to find its "context" or the "environment" corresponding to the signal such as a beach, a restaurant, or a metro station. In total we considered 15 different classes and 1170 audio files separated in training, validation and testing sets.
